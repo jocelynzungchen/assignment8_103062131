@@ -1,6 +1,6 @@
 # assignment8_103062131
 
-assigment8                  103062131陳映竹
+assigment8                 103062131陳映竹
 
 這次的作業只需將lab10的東西和提供的socket sample拼湊再一起即可。
 把lab10的兩個page再新增一個ip_page，將ip_page設成一開始的初始畫面。
